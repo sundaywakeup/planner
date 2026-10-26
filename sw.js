@@ -1,6 +1,6 @@
 // Офлайн-режим: приложение открывается без интернета.
 // Данные идут напрямую в Supabase и здесь не кэшируются.
-const CACHE = "planer-v1";
+const CACHE = "planer-v3";
 const SHELL = ["./", "./index.html", "./config.js", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 const CDN = ["cdn.jsdelivr.net", "unpkg.com"];
 
